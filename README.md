@@ -18,7 +18,7 @@ Server with Express. Also a little guid for running an express app on port 80.
 ```
 
 ```shell
-       § sudo apt install nodejs
+    § sudo apt install nodejs
 ```
 
 ```shell
