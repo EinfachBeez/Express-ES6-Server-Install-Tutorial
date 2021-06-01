@@ -25,7 +25,7 @@ Server with Express. Also a little guid for running an express app on port 80.
     $ nodejs --version
 ```
 
-Now we see the v12 from nodejs. The right one for ES6
+Now we see the current version (v16) from nodejs. The right one for ES6
 
 # Upload
 
